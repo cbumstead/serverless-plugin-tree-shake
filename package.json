@@ -1,6 +1,6 @@
 {
   "name": "@cbumstead/serverless-plugin-tree-shake",
-  "version": "1.1.15",
+  "version": "1.1.16",
   "description": "Shake the dependency tree and only include files needed",
   "license": "BSD-3-Clause",
   "repository": {
@@ -131,9 +131,9 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/sergioramos/serverless-plugin-tree-shake/issues"
+    "url": "https://github.com/cbumstead/serverless-plugin-tree-shake/issues"
   },
-  "homepage": "https://github.com/sergioramos/serverless-plugin-tree-shake#readme",
+  "homepage": "https://github.com/cbumstead/serverless-plugin-tree-shake#readme",
   "directories": {
     "test": "test"
   }
