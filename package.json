@@ -1,11 +1,11 @@
 {
   "name": "@cbumstead/serverless-plugin-tree-shake",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "Shake the dependency tree and only include files needed",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergioramos/serverless-plugin-tree-shake.git"
+    "url": "git+https://github.com/cbumstead/serverless-plugin-tree-shake.git"
   },
   "author": "Sérgio Ramos <mail@sergioramos.me>",
   "main": "index.js",
